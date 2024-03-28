@@ -1,0 +1,61 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.23222399991184,-38.384742 ]
+    },
+    "properties": {
+    
+    "Description":"Гуманітарний",
+    "Population":"More than 1000",
+    "Schools":"Історія",
+    "Town_name":"2015",
+    "ChildCare":"ЛЬВІВСЬКА",
+    "PropPrice":"с.Коросне",
+    "HealthSer":"Перемишлянський",
+    "HexCode":"чол"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.031592,49.841952 ]
+    },
+    "properties": {
+    
+    "Description":"Гуманітарний",
+    "Population":"More than 1000",
+    "Schools":"Історія",
+    "Town_name":"2015",
+    "ChildCare":"ЛЬВІВСЬКА",
+    "PropPrice":"с.Коросне",
+    "HealthSer":"Перемишлянський",
+    "HexCode":"чол"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.185507,49.437836 ]
+    },
+    "properties": {
+    
+    "Description":"Гуманітарний",
+    "Population":"More than 1000",
+    "Schools":"Історія",
+    "Town_name":"2015",
+    "ChildCare":"ЛЬВІВСЬКА",
+    "PropPrice":"с.Коросне",
+    "HealthSer":"Перемишлянський",
+    "HexCode":"чол"
+    }
+  }
+  
+]
+}

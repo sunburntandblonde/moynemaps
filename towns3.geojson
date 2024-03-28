@@ -1,0 +1,845 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.23222399991184,-38.384742 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#001861",
+    "name":"Port Fairy",
+    "pop":3742,
+    "townid":56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.36790899987798,-38.29402 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#001861",
+    "name":"Koroit",
+    "pop":2184,
+    "townid":55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.80397500040516,-38.079054 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#001861",
+    "name":"Mortlake",
+    "pop":1477,
+    "townid":54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.47420799971442,-38.29183 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#3a86ff",
+    "name":"Mailors Flat",
+    "pop":490,
+    "townid":53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.9995410002093,-38.031872 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#3a86ff",
+    "name":"Macarthur",
+    "pop":469,
+    "townid":52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.73020199957494,-38.334292 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#3a86ff",
+    "name":"Panmure",
+    "pop":442,
+    "townid":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.45833800017817,-38.241563 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#3a86ff",
+    "name":"Winslow",
+    "pop":436,
+    "townid":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.31605499955714,-38.272083 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#3a86ff",
+    "name":"Kirkstall",
+    "pop":406,
+    "townid":49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.5254990001596,-38.283965 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#3a86ff",
+    "name":"Grassmere",
+    "pop":385,
+    "townid":48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.43086299959535,-38.180619 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#3a86ff",
+    "name":"Woolsthorpe",
+    "pop":364,
+    "townid":47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.87683300020166,-38.606875 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#3a86ff",
+    "name":"Peterborough",
+    "pop":322,
+    "townid":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.32454300009618,-38.10977 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#3a86ff",
+    "name":"Hawkesdale",
+    "pop":311,
+    "townid":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.40856600022389,-38.326882 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#3a86ff",
+    "name":"Illowa",
+    "pop":304,
+    "townid":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.62144799995082,-38.279975 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#ff006e",
+    "name":"Purnim",
+    "pop":292,
+    "townid":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.06518699952198,-38.315184 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#ff006e",
+    "name":"Yambuk",
+    "pop":284,
+    "townid":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.81400100026408,-38.299683 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#ff006e",
+    "name":"Garvoc",
+    "pop":248,
+    "townid":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.5802350003057,-38.330101 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#ff006e",
+    "name":"Wangoom",
+    "pop":237,
+    "townid":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.74946799993415,-38.469177 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#ff006e",
+    "name":"Nullawarre",
+    "pop":233,
+    "townid":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.32297999996453,-38.338693 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#ff006e",
+    "name":"Killarney",
+    "pop":195,
+    "townid":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.70058600048694,-38.241906 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#ff006e",
+    "name":"Framlingham",
+    "pop":169,
+    "townid":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.79825499961174,-37.891694 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#ff006e",
+    "name":"Woorndoo",
+    "pop":160,
+    "townid":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.68590100017903,-38.150199 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#ff006e",
+    "name":"Ellerslie",
+    "pop":157,
+    "townid":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.68690099972486,-37.995179 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#ff006e",
+    "name":"Hexham",
+    "pop":130,
+    "townid":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.4011490002162,-38.298133 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#ff006e",
+    "name":"Southern Cross",
+    "pop":128,
+    "townid":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.2557030001177,-38.35205 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#ff006e",
+    "name":"Rosebrook",
+    "pop":128,
+    "townid":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.69043300025356,-38.395249 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#ff006e",
+    "name":"Naringal",
+    "pop":124,
+    "townid":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.09780200010383,-38.202231 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#ff006e",
+    "name":"Orford",
+    "pop":115,
+    "townid":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.8155060003236,-38.360036 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#ff006e",
+    "name":"Laang",
+    "pop":115,
+    "townid":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.43115799990434,-38.31219 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#ff006e",
+    "name":"Yangery",
+    "pop":113,
+    "townid":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.78047599990663,-38.191157 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#ff006e",
+    "name":"The Sisters",
+    "pop":110,
+    "townid":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.3474650002806,-37.991449 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#ff006e",
+    "name":"Minhamite",
+    "pop":106,
+    "townid":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.7995740002489,-38.409844 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#fb5607",
+    "name":"Naringal East",
+    "pop":96,
+    "townid":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.79101999999014,-38.527121 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#fb5607",
+    "name":"Nirranda South",
+    "pop":90,
+    "townid":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.22880700015963,-38.31809 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#fb5607",
+    "name":"Toolong",
+    "pop":88,
+    "townid":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.35376599995578,-38.332935 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#fb5607",
+    "name":"Tower Hill",
+    "pop":83,
+    "townid":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.64407200038738,-38.42114 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#fb5607",
+    "name":"Mepunga West",
+    "pop":83,
+    "townid":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.31483700009787,-38.204507 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#fb5607",
+    "name":"Warrong",
+    "pop":77,
+    "townid":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.70062500028277,-38.439257 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#fb5607",
+    "name":"Mepunga East",
+    "pop":73,
+    "townid":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.1889946416935,-38.23818577 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#fb5607",
+    "name":"Tarrone",
+    "pop":69,
+    "townid":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.4371670003276,-38.036349 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#fb5607",
+    "name":"Minjah",
+    "pop":65,
+    "townid":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.43641299965347,-38.288695 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#fb5607",
+    "name":"Yarpturk",
+    "pop":63,
+    "townid":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.25689100025318,-38.155575 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#fb5607",
+    "name":"Willatook",
+    "pop":53,
+    "townid":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.97988200044614,-37.879767 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#fb5607",
+    "name":"Dundonnell",
+    "pop":52,
+    "townid":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.55676400049717,-38.302479 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#fb5607",
+    "name":"Purnim West",
+    "pop":50,
+    "townid":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.7674470002604,-38.501347 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#fb5607",
+    "name":"Nirranda",
+    "pop":50,
+    "townid":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.5581260171502,-37.8579256 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#8338ec",
+    "name":"Nareeb",
+    "pop":48,
+    "townid":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.78945955032472,-38.45036957 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#8338ec",
+    "name":"Nullawarre North",
+    "pop":46,
+    "townid":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.0484230419102,-37.97645397 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#8338ec",
+    "name":"Warrabkook",
+    "pop":42,
+    "townid":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.67132356707867,-38.45044821 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#8338ec",
+    "name":"Mepunga",
+    "pop":36,
+    "townid":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.0689019998647,-38.256571 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#8338ec",
+    "name":"St Helens",
+    "pop":34,
+    "townid":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.17850884174285,-37.97393582 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#8338ec",
+    "name":"Gerrigerrup",
+    "pop":31,
+    "townid":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.872266,-38.342022 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#8338ec",
+    "name":"Taroon",
+    "pop":25,
+    "townid":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.71317300018168,-38.193962 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#8338ec",
+    "name":"Framlingham East",
+    "pop":25,
+    "townid":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.8691067166823,-37.99430029 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"shop",
+    "description":"#8338ec",
+    "name":"Knebsworth",
+    "pop":22,
+    "townid":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.88937900009273,-38.249958 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"HOME",
+    "description":"#8338ec",
+    "name":"Tyrendarra East",
+    "pop":19,
+    "townid":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.70080523280586,-38.4862602 ]
+    },
+    "properties": {
+    "category":"city",
+    "type":"HOME",
+    "description":"#8338ec",
+    "name":"The Cove",
+    "pop":18,
+    "townid":1
+    }
+  }
+]
+}

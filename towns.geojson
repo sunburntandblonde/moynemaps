@@ -1,0 +1,957 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+{
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.23222399991184,-38.384742 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#001861",
+    "Town_name":"Port Fairy",
+    "Population":3742,
+    "ChildCare":56,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.36790899987798,-38.29402 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#001861",
+    "Town_name":"Koroit",
+    "Population":2184,
+    "ChildCare":55,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.80397500040516,-38.079054 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#001861",
+    "Town_name":"Mortlake",
+    "Population":1477,
+    "ChildCare":54,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.47420799971442,-38.29183 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#3a86ff",
+    "Town_name":"Mailors Flat",
+    "Population":490,
+    "ChildCare":53,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.9995410002093,-38.031872 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#3a86ff",
+    "Town_name":"Macarthur",
+    "Population":469,
+    "ChildCare":52,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.73020199957494,-38.334292 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#3a86ff",
+    "Town_name":"Panmure",
+    "Population":442,
+    "ChildCare":51,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.45833800017817,-38.241563 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#3a86ff",
+    "Town_name":"Winslow",
+    "Population":436,
+    "ChildCare":50,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.31605499955714,-38.272083 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#3a86ff",
+    "Town_name":"Kirkstall",
+    "Population":406,
+    "ChildCare":49,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.5254990001596,-38.283965 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#3a86ff",
+    "Town_name":"Grassmere",
+    "Population":385,
+    "ChildCare":48,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.43086299959535,-38.180619 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#3a86ff",
+    "Town_name":"Woolsthorpe",
+    "Population":364,
+    "ChildCare":47,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.87683300020166,-38.606875 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#3a86ff",
+    "Town_name":"Peterborough",
+    "Population":322,
+    "ChildCare":46,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.32454300009618,-38.10977 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#3a86ff",
+    "Town_name":"Hawkesdale",
+    "Population":311,
+    "ChildCare":45,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.40856600022389,-38.326882 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#3a86ff",
+    "Town_name":"Illowa",
+    "Population":304,
+    "ChildCare":44,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.62144799995082,-38.279975 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#ff006e",
+    "Town_name":"Purnim",
+    "Population":292,
+    "ChildCare":43,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.06518699952198,-38.315184 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#ff006e",
+    "Town_name":"Yambuk",
+    "Population":284,
+    "ChildCare":42,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.81400100026408,-38.299683 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#ff006e",
+    "Town_name":"Garvoc",
+    "Population":248,
+    "ChildCare":41,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.5802350003057,-38.330101 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#ff006e",
+    "Town_name":"Wangoom",
+    "Population":237,
+    "ChildCare":40,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.74946799993415,-38.469177 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#ff006e",
+    "Town_name":"Nullawarre",
+    "Population":233,
+    "ChildCare":39,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.32297999996453,-38.338693 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#ff006e",
+    "Town_name":"Killarney",
+    "Population":195,
+    "ChildCare":38,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.70058600048694,-38.241906 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#ff006e",
+    "Town_name":"Framlingham",
+    "Population":169,
+    "ChildCare":37,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.79825499961174,-37.891694 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#ff006e",
+    "Town_name":"Woorndoo",
+    "Population":160,
+    "ChildCare":36,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.68590100017903,-38.150199 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#ff006e",
+    "Town_name":"Ellerslie",
+    "Population":157,
+    "ChildCare":35,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.68690099972486,-37.995179 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#ff006e",
+    "Town_name":"Hexham",
+    "Population":130,
+    "ChildCare":34,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.4011490002162,-38.298133 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#ff006e",
+    "Town_name":"Southern Cross",
+    "Population":128,
+    "ChildCare":32,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.2557030001177,-38.35205 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#ff006e",
+    "Town_name":"Rosebrook",
+    "Population":128,
+    "ChildCare":33,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.69043300025356,-38.395249 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#ff006e",
+    "Town_name":"Naringal",
+    "Population":124,
+    "ChildCare":31,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.09780200010383,-38.202231 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#ff006e",
+    "Town_name":"Orford",
+    "Population":115,
+    "ChildCare":29,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.8155060003236,-38.360036 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#ff006e",
+    "Town_name":"Laang",
+    "Population":115,
+    "ChildCare":30,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.43115799990434,-38.31219 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#ff006e",
+    "Town_name":"Yangery",
+    "Population":113,
+    "ChildCare":28,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.78047599990663,-38.191157 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#ff006e",
+    "Town_name":"The Sisters",
+    "Population":110,
+    "ChildCare":27,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.3474650002806,-37.991449 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#ff006e",
+    "Town_name":"Minhamite",
+    "Population":106,
+    "ChildCare":26,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.7995740002489,-38.409844 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#fb5607",
+    "Town_name":"Naringal East",
+    "Population":96,
+    "ChildCare":25,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.79101999999014,-38.527121 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#fb5607",
+    "Town_name":"Nirranda South",
+    "Population":90,
+    "ChildCare":24,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.22880700015963,-38.31809 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#fb5607",
+    "Town_name":"Toolong",
+    "Population":88,
+    "ChildCare":23,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.35376599995578,-38.332935 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#fb5607",
+    "Town_name":"Tower Hill",
+    "Population":83,
+    "ChildCare":21,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.64407200038738,-38.42114 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#fb5607",
+    "Town_name":"Mepunga West",
+    "Population":83,
+    "ChildCare":22,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.31483700009787,-38.204507 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#fb5607",
+    "Town_name":"Warrong",
+    "Population":77,
+    "ChildCare":20,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.70062500028277,-38.439257 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#fb5607",
+    "Town_name":"Mepunga East",
+    "Population":73,
+    "ChildCare":19,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.1889946416935,-38.23818577 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#fb5607",
+    "Town_name":"Tarrone",
+    "Population":69,
+    "ChildCare":18,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.4371670003276,-38.036349 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#fb5607",
+    "Town_name":"Minjah",
+    "Population":65,
+    "ChildCare":17,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.43641299965347,-38.288695 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#fb5607",
+    "Town_name":"Yarpturk",
+    "Population":63,
+    "ChildCare":16,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.25689100025318,-38.155575 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#fb5607",
+    "Town_name":"Willatook",
+    "Population":53,
+    "ChildCare":15,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.97988200044614,-37.879767 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#fb5607",
+    "Town_name":"Dundonnell",
+    "Population":52,
+    "ChildCare":14,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.55676400049717,-38.302479 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#fb5607",
+    "Town_name":"Purnim West",
+    "Population":50,
+    "ChildCare":12,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.7674470002604,-38.501347 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#fb5607",
+    "Town_name":"Nirranda",
+    "Population":50,
+    "ChildCare":13,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.5581260171502,-37.8579256 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#8338ec",
+    "Town_name":"Nareeb",
+    "Population":48,
+    "ChildCare":11,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.78945955032472,-38.45036957 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#8338ec",
+    "Town_name":"Nullawarre North",
+    "Population":46,
+    "ChildCare":10,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.0484230419102,-37.97645397 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#8338ec",
+    "Town_name":"Warrabkook",
+    "Population":42,
+    "ChildCare":9,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.67132356707867,-38.45044821 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#8338ec",
+    "Town_name":"Mepunga",
+    "Population":36,
+    "ChildCare":8,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.0689019998647,-38.256571 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#8338ec",
+    "Town_name":"St Helens",
+    "Population":34,
+    "ChildCare":7,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.17850884174285,-37.97393582 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#8338ec",
+    "Town_name":"Gerrigerrup",
+    "Population":31,
+    "ChildCare":6,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.872266,-38.342022 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#8338ec",
+    "Town_name":"Taroon",
+    "Population":25,
+    "ChildCare":4,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.71317300018168,-38.193962 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#8338ec",
+    "Town_name":"Framlingham East",
+    "Population":25,
+    "ChildCare":5,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.8691067166823,-37.99430029 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"shop",
+    "Description":"#8338ec",
+    "Town_name":"Knebsworth",
+    "Population":22,
+    "ChildCare":3,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.88937900009273,-38.249958 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"HOME",
+    "Description":"#8338ec",
+    "Town_name":"Tyrendarra East",
+    "Population":19,
+    "ChildCare":2,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.70080523280586,-38.4862602 ]
+    },
+    "properties": {
+    "Schools":"city",
+    "HealthSer":"HOME",
+    "Description":"#8338ec",
+    "Town_name":"The Cove",
+    "Population":18,
+    "ChildCare":1,
+"PropPrice":"0",
+    "HexCode":"#FFFFFF"
+    }
+  }
+]
+}
