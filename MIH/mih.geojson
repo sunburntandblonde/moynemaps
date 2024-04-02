@@ -1,0 +1,481 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.521039,-37.959591 ]
+    },
+    "properties": {
+    "Schools":0,
+    "HealthSer":"home",
+    "Description":"Footy and netball are the heartbeat of this community ",
+    "Town_name":"Caramut",
+    "Population":256,
+    "ChildCare":0,
+    "PropPrice":281000,
+    "HexCode":"#FF0000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.33051,-38.312474 ]
+    },
+    "properties": {
+    "Schools":0,
+    "HealthSer":"home",
+    "Description":"Home to one of the best community hubs and music venues in all of Moyne",
+    "Town_name":"Crossley",
+    "Population":235,
+    "ChildCare":0,
+    "PropPrice":958000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.654902,-38.343489 ]
+    },
+    "properties": {
+    "Schools":1,
+    "HealthSer":"home",
+    "Description":"#ff006e",
+    "Town_name":"Cudgee",
+    "Population":311,
+    "ChildCare":2,
+    "PropPrice":712000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.685901,-38.150199 ]
+    },
+    "properties": {
+    "Schools":0,
+    "HealthSer":"home",
+    "Description":"#8338ec",
+    "Town_name":"Ellerslie",
+    "Population":157,
+    "ChildCare":2,
+    "PropPrice":615000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.700586,-38.241906 ]
+    },
+    "properties": {
+    "Schools":0,
+    "HealthSer":"home",
+    "Description":"#ff006e",
+    "Town_name":"Framlingham",
+    "Population":169,
+    "ChildCare":2,
+    "PropPrice":363000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.814001,-38.299683 ]
+    },
+    "properties": {
+    "Schools":0,
+    "HealthSer":"home",
+    "Description":"#8338ec",
+    "Town_name":"Garvoc",
+    "Population":248,
+    "ChildCare":0,
+    "PropPrice":465000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.324543,-38.10977 ]
+    },
+    "properties": {
+    "Schools":1,
+    "HealthSer":"home",
+    "Description":"#3a86ff",
+    "Town_name":"Hawkesdale",
+    "Population":311,
+    "ChildCare":2,
+    "PropPrice":460000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.686901,-37.995179 ]
+    },
+    "properties": {
+    "Schools":0,
+    "HealthSer":"home",
+    "Description":"#3a86ff",
+    "Town_name":"Hexham",
+    "Population":130,
+    "ChildCare":0,
+    "PropPrice":411000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.408566,-38.326882 ]
+    },
+    "properties": {
+    "Schools":0,
+    "HealthSer":"home",
+    "Description":"#ff006e",
+    "Town_name":"Illowa",
+    "Population":304,
+    "ChildCare":4,
+    "PropPrice":1200000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.32298,-38.338693 ]
+    },
+    "properties": {
+    "Schools":0,
+    "HealthSer":"home",
+    "Description":"#3a86ff",
+    "Town_name":"Killarney",
+    "Population":195,
+    "ChildCare":0,
+    "PropPrice":1000000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.367909,-38.29402 ]
+    },
+    "properties": {
+    "Schools":2,
+    "HealthSer":"home",
+    "Description":"#ff006e",
+    "Town_name":"Koroit",
+    "Population":2184,
+    "ChildCare":4,
+    "PropPrice":640000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.999541,-38.031872 ]
+    },
+    "properties": {
+    "Schools":1,
+    "HealthSer":"home",
+    "Description":"#3a86ff",
+    "Town_name":"Macarthur",
+    "Population":469,
+    "ChildCare":1,
+    "PropPrice":320000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.474208,-38.29183 ]
+    },
+    "properties": {
+    "Schools":0,
+    "HealthSer":"home",
+    "Description":"#8338ec",
+    "Town_name":"Mailors Flat",
+    "Population":490,
+    "ChildCare":1,
+    "PropPrice":939000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.803975,-38.079054 ]
+    },
+    "properties": {
+    "Schools":3,
+    "HealthSer":"home",
+    "Description":"#001861",
+    "Town_name":"Mortlake",
+    "Population":1477,
+    "ChildCare":3,
+    "PropPrice":386000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.767447,-38.501347 ]
+    },
+    "properties": {
+    "Schools":0,
+    "HealthSer":"home",
+    "Description":"#ff006e",
+    "Town_name":"Nirranda",
+    "Population":50,
+    "ChildCare":5,
+    "PropPrice":719000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.749468,-38.469177 ]
+    },
+    "properties": {
+    "Schools":1,
+    "HealthSer":"home",
+    "Description":"#3a86ff",
+    "Town_name":"Nullawarre",
+    "Population":233,
+    "ChildCare":0,
+    "PropPrice":467000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.097802,-38.202231 ]
+    },
+    "properties": {
+    "Schools":0,
+    "HealthSer":"home",
+    "Description":"#3a86ff",
+    "Town_name":"Orford",
+    "Population":115,
+    "ChildCare":2,
+    "PropPrice":410000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.730202,-38.334292 ]
+    },
+    "properties": {
+    "Schools":1,
+    "HealthSer":"home",
+    "Description":"#8338ec",
+    "Town_name":"Panmure",
+    "Population":364,
+    "ChildCare":2,
+    "PropPrice":545000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.876833,-38.606875 ]
+    },
+    "properties": {
+    "Schools":0,
+    "HealthSer":"home",
+    "Description":"#fb5607",
+    "Town_name":"Peterborough",
+    "Population":322,
+    "ChildCare":0,
+    "PropPrice":623000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.232224,-38.384742 ]
+    },
+    "properties": {
+    "Schools":2,
+    "HealthSer":"home",
+    "Description":"#fb5607",
+    "Town_name":"Port Fairy",
+    "Population":3741,
+    "ChildCare":2,
+    "PropPrice":1277000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.621448,-38.279975 ]
+    },
+    "properties": {
+    "Schools":0,
+    "HealthSer":"home",
+    "Description":"#ff006e",
+    "Town_name":"Purnim",
+    "Population":292,
+    "ChildCare":1,
+    "PropPrice":560000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.255703,-38.35205 ]
+    },
+    "properties": {
+    "Schools":0,
+    "HealthSer":"home",
+    "Description":"#fb5607",
+    "Town_name":"Rosebrook",
+    "Population":128,
+    "ChildCare":0,
+    "PropPrice":1100000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.228807,-38.31809 ]
+    },
+    "properties": {
+    "Schools":0,
+    "HealthSer":"home",
+    "Description":"#001861",
+    "Town_name":"Toolong",
+    "Population":88,
+    "ChildCare":1,
+    "PropPrice":1100000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.353766,-38.332935 ]
+    },
+    "properties": {
+    "Schools":0,
+    "HealthSer":"home",
+    "Description":"#8338ec",
+    "Town_name":"Tower Hill",
+    "Population":83,
+    "ChildCare":0,
+    "PropPrice":980000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.458338,-38.241563 ]
+    },
+    "properties": {
+    "Schools":0,
+    "HealthSer":"home",
+    "Description":"#ff006e",
+    "Town_name":"Winslow",
+    "Population":436,
+    "ChildCare":1,
+    "PropPrice":742000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.430863,-38.180619 ]
+    },
+    "properties": {
+    "Schools":1,
+    "HealthSer":"home",
+    "Description":"#fb5607",
+    "Town_name":"Woolsthorpe",
+    "Population":364,
+    "ChildCare":0,
+    "PropPrice":412000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.798255,-37.891694 ]
+    },
+    "properties": {
+    "Schools":0,
+    "HealthSer":"home",
+    "Description":"#fb5607",
+    "Town_name":"Woorndoo",
+    "Population":160,
+    "ChildCare":3,
+    "PropPrice":383000,
+    "HexCode":"#FFFFFF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.065187,-38.315184 ]
+    },
+    "properties": {
+    "Schools":0,
+    "HealthSer":"home",
+    "Description":"#fb5607",
+    "Town_name":"Yambuk",
+    "Population":284,
+    "ChildCare":0,
+    "PropPrice":431000,
+    "HexCode":"#FFFFFF"
+    }
+  }
+]
+}
